@@ -15,6 +15,7 @@
 	<p><img src="img/jyitter.png"></p>
 	<h3>投稿完了</h3>
 	<h3>EYYYYYY FUCK</h3>
+	<h3>FUCK YOUUUUUUU</h3>
 	<p>ツイットの投稿ありがとうございました！</p>
 	<p><a href="./Top">トップページへ</a></p>
 </body>
